@@ -25,7 +25,7 @@
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.106479 0.120249 0.135259 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.739912 0.851007 0.999382 1</string>
+	<string>1 1 1 0.85</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.139913 0.201458 0.321713 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
@@ -91,7 +91,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.126734 0.140989 0.159814 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.739912 0.851007 0.999382 1</string>
+	<string>1 1 1 0.85</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.258298 0.300954 0.355207 1</string>
 	<key>DVTSourceTextSelectionColor</key>
@@ -115,15 +115,15 @@
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.405922 0.65526 0.998783 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.898746 0.823337 0.423384 1</string>
+		<string>0.898756 0.82341 0.423388 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.739912 0.851007 0.999382 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.89952 0.862526 0.650474 1</string>
+		<string>0.899521 0.862526 0.650474 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.739875 0.849748 0.99938 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.89952 0.862526 0.650474 1</string>
+		<string>0.899521 0.862526 0.650474 1</string>
 		<key>xcode.syntax.identifier.macro</key>
 		<string>0.991987 0.60419 0.366048 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
@@ -131,11 +131,11 @@
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.405922 0.65526 0.998783 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.898746 0.823337 0.423384 1</string>
+		<string>0.898756 0.82341 0.423388 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.739912 0.851007 0.999382 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.89952 0.862526 0.650474 1</string>
+		<string>0.899521 0.862526 0.650474 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.959251 0.362284 0.439949 1</string>
 		<key>xcode.syntax.mark</key>
