@@ -2,15 +2,19 @@
 
 Ported version of [github-vscode-theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-Light theme
+## Light theme
 
 ![](light.png)
 
-Dark theme
+## Dark theme
 
 ![](dark.png)
 
-GitHub mobile app dark scheme
+## Dark dimmed theme
+
+![](dark_dimmed.png)
+
+## Darken theme
 
 ![](darken.png)
 
