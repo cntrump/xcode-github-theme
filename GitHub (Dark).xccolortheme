@@ -109,33 +109,33 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.341718 0.374666 0.414522 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.638078 0.47734 0.925393 1</string>
+		<string>0.991987 0.60419 0.366048 1</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>0.77583 0.668946 0.969675 1</string>
+		<string>0.995199 0.779064 0.612562 1</string>
 		<key>xcode.syntax.identifier.class</key>
 		<string>0.739912 0.851007 0.999382 1</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>0.699547 0.961538 0.751211 1</string>
+		<string>0.77583 0.668946 0.969675 1</string>
 		<key>xcode.syntax.identifier.constant</key>
 		<string>0.405922 0.65526 0.998783 1</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>0.4629 0.904343 0.547123 1</string>
+		<string>0.638078 0.47734 0.925393 1</string>
 		<key>xcode.syntax.identifier.function</key>
 		<string>0.405922 0.65526 0.998783 1</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>0.4629 0.904343 0.547123 1</string>
+		<string>0.638078 0.47734 0.925393 1</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>0.991987 0.60419 0.366048 1</string>
+		<string>0.4629 0.904343 0.547123 1</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>0.991987 0.60419 0.366048 1</string>
+		<string>0.4629 0.904343 0.547123 1</string>
 		<key>xcode.syntax.identifier.type</key>
 		<string>0.739912 0.851007 0.999382 1</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>0.699547 0.961538 0.751211 1</string>
+		<string>0.77583 0.668946 0.969675 1</string>
 		<key>xcode.syntax.identifier.variable</key>
 		<string>0.405922 0.65526 0.998783 1</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>0.4629 0.904343 0.547123 1</string>
+		<string>0.638078 0.47734 0.925393 1</string>
 		<key>xcode.syntax.keyword</key>
 		<string>0.959251 0.362284 0.439949 1</string>
 		<key>xcode.syntax.mark</key>
@@ -147,7 +147,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.854902 0.866667 0.886274 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.991987 0.60419 0.366048 1</string>
+		<string>0.4629 0.904343 0.547123 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.555848 0.74487 0.999027 1</string>
 		<key>xcode.syntax.url</key>
