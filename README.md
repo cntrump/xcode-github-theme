@@ -14,10 +14,6 @@ Ported version of [github-vscode-theme](https://marketplace.visualstudio.com/ite
 
 ![](dark_dimmed.png)
 
-## Darken theme
-
-![](darken.png)
-
 ## Install
 
 - Exit Xcode
