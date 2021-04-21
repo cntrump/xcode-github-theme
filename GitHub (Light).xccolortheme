@@ -25,9 +25,9 @@
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>1 1 1 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.03282 0.186886 0.462351 1</string>
+	<string>0.0296532 0.107091 0.231962 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
-	<string>0.631373 0.788235 0.933333 1</string>
+	<string>0.827235 0.890993 0.970019 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
 	<string>0.705792 0.8 0.544 1</string>
 	<key>DVTFontAndColorVersion</key>
@@ -89,13 +89,13 @@
 	<key>DVTSourceTextBlockDimBackgroundColor</key>
 	<string>0.424672 0.424672 0.424672 1</string>
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
-	<string>0.955876 0.965291 0.97524 1</string>
+	<string>0.975414 0.980129 0.985126 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.03282 0.186886 0.462351 1</string>
+	<string>0.0296532 0.107091 0.231962 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.8 0.8 0.8 1</string>
 	<key>DVTSourceTextSelectionColor</key>
-	<string>0.568246 0.738406 0.915886 1</string>
+	<string>0.827235 0.890993 0.970019 1</string>
 	<key>DVTSourceTextSyntaxColors</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
@@ -109,7 +109,7 @@
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>0.341718 0.374666 0.414522 1</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>0.853658 0.29823 0.047861 1</string>
+		<string>0.854902 0.298039 0.0470588 1</string>
 		<key>xcode.syntax.declaration.type</key>
 		<string>0.769619 0.258639 0.0353031 1</string>
 		<key>xcode.syntax.identifier.class</key>
@@ -147,7 +147,7 @@
 		<key>xcode.syntax.plain</key>
 		<string>0.106479 0.120249 0.135259 1</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>0.121569 0.462745 0.172549 1</string>
+		<string>0.120025 0.462473 0.173141 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.02242 0.130999 0.310456 1</string>
 		<key>xcode.syntax.url</key>
@@ -162,7 +162,7 @@
 		<key>xcode.syntax.comment</key>
 		<string>SFMono-Regular - 12.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>SFMono-Regular - 12.0</string>
+		<string>HelveticaNeue - 12.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
 		<string>SFMono-Bold - 12.0</string>
 		<key>xcode.syntax.declaration.other</key>
