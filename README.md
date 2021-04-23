@@ -2,15 +2,19 @@
 
 Ported version of [github-vscode-theme](https://marketplace.visualstudio.com/items?itemName=GitHub.github-vscode-theme)
 
-## Light theme
+## Preview
+
+Font: [Cascadia Code](https://github.com/microsoft/cascadia-code)
+
+### Light theme
 
 ![](light.png)
 
-## Dark theme
+### Dark theme
 
 ![](dark.png)
 
-## Dark dimmed theme
+### Dark dimmed theme
 
 ![](dark_dimmed.png)
 
