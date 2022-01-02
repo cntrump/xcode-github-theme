@@ -23,9 +23,9 @@
 	<key>DVTConsoleExectuableOutputTextFont</key>
 	<string>CascadiaCode-SemiBold - 12.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
-	<string>0.10084 0.114216 0.135244 1</string>
+	<string>0.0844505 0.0973678 0.114634 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
-	<string>0.731747 0.876425 0.999403 1</string>
+	<string>0.264555 0.524092 0.949406 1</string>
 	<key>DVTConsoleTextSelectionColor</key>
 	<string>0.117124 0.201407 0.329167 1</string>
 	<key>DVTDebuggerInstructionPointerColor</key>
@@ -91,7 +91,7 @@
 	<key>DVTSourceTextCurrentLineHighlightColor</key>
 	<string>0.133333 0.14902 0.176471 1</string>
 	<key>DVTSourceTextInsertionPointColor</key>
-	<string>0.731747 0.876425 0.999403 1</string>
+	<string>0.264555 0.524092 0.949406 1</string>
 	<key>DVTSourceTextInvisiblesColor</key>
 	<string>0.258298 0.300954 0.355207 1</string>
 	<key>DVTSourceTextSelectionColor</key>
