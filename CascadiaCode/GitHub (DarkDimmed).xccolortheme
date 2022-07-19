@@ -5,23 +5,23 @@
 	<key>DVTConsoleDebuggerInputTextColor</key>
 	<string>0.617218 0.672588 0.732293 1</string>
 	<key>DVTConsoleDebuggerInputTextFont</key>
-	<string>CascadiaCode-SemiBold - 12.0</string>
+	<string>CascadiaCode-SemiBold - 11.0</string>
 	<key>DVTConsoleDebuggerOutputTextColor</key>
 	<string>0.617218 0.672588 0.732293 1</string>
 	<key>DVTConsoleDebuggerOutputTextFont</key>
-	<string>CascadiaCode-SemiLight - 12.0</string>
+	<string>CascadiaCode-SemiLight - 11.0</string>
 	<key>DVTConsoleDebuggerPromptTextColor</key>
 	<string>0.35886 0.734441 0.353097 1</string>
 	<key>DVTConsoleDebuggerPromptTextFont</key>
-	<string>CascadiaCode-SemiBold - 12.0</string>
+	<string>CascadiaCode-SemiBold - 11.0</string>
 	<key>DVTConsoleExectuableInputTextColor</key>
 	<string>0.617218 0.672588 0.732293 1</string>
 	<key>DVTConsoleExectuableInputTextFont</key>
-	<string>CascadiaCode-SemiLight - 12.0</string>
+	<string>CascadiaCode-SemiLight - 11.0</string>
 	<key>DVTConsoleExectuableOutputTextColor</key>
 	<string>0.617218 0.672588 0.732293 1</string>
 	<key>DVTConsoleExectuableOutputTextFont</key>
-	<string>CascadiaCode-SemiBold - 12.0</string>
+	<string>CascadiaCode-SemiBold - 11.0</string>
 	<key>DVTConsoleTextBackgroundColor</key>
 	<string>0.0844505 0.0973678 0.114634 1</string>
 	<key>DVTConsoleTextInsertionPointColor</key>
@@ -156,59 +156,59 @@
 	<key>DVTSourceTextSyntaxFonts</key>
 	<dict>
 		<key>xcode.syntax.attribute</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.character</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.comment</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.comment.doc</key>
-		<string>Helvetica - 12.0</string>
+		<string>Helvetica - 11.0</string>
 		<key>xcode.syntax.comment.doc.keyword</key>
-		<string>CascadiaCode-SemiBold - 12.0</string>
+		<string>CascadiaCode-SemiBold - 11.0</string>
 		<key>xcode.syntax.declaration.other</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.declaration.type</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.class</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.class.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.constant</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.constant.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.function</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.function.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.macro</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.macro.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.type</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.type.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.variable</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.identifier.variable.system</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.keyword</key>
-		<string>CascadiaCode-SemiBold - 12.0</string>
+		<string>CascadiaCode-SemiBold - 11.0</string>
 		<key>xcode.syntax.mark</key>
-		<string>CascadiaCode-SemiBold - 12.0</string>
+		<string>CascadiaCode-SemiBold - 11.0</string>
 		<key>xcode.syntax.markup.code</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.number</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.plain</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.string</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 		<key>xcode.syntax.url</key>
-		<string>CascadiaCode-SemiLight - 12.0</string>
+		<string>CascadiaCode-SemiLight - 11.0</string>
 	</dict>
 </dict>
 </plist>
