@@ -148,6 +148,16 @@
 		<string>0.617218 0.672588 0.732293 1</string>
 		<key>xcode.syntax.preprocessor</key>
 		<string>0.35886 0.734441 0.353097 1</string>
+		<key>xcode.syntax.regex</key>
+		<string>0.731747 0.876425 0.999403 1</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>0.357263 0.64638 0.998735 1</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>0.623731 0.409819 0.925321 1</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>0.893845 0.730496 0.302632 1</string>
+		<key>xcode.syntax.regex.other</key>
+		<string>0.617218 0.672588 0.732293 1</string>
 		<key>xcode.syntax.string</key>
 		<string>0.731747 0.876425 0.999403 1</string>
 		<key>xcode.syntax.url</key>
@@ -204,6 +214,16 @@
 		<key>xcode.syntax.plain</key>
 		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.preprocessor</key>
+		<string>SFMono-Medium - 11.0</string>
+		<key>xcode.syntax.regex</key>
+		<string>SFMono-Medium - 11.0</string>
+		<key>xcode.syntax.regex.capturename</key>
+		<string>SFMono-Medium - 11.0</string>
+		<key>xcode.syntax.regex.charname</key>
+		<string>SFMono-Medium - 11.0</string>
+		<key>xcode.syntax.regex.number</key>
+		<string>SFMono-Medium - 11.0</string>
+		<key>xcode.syntax.regex.other</key>
 		<string>SFMono-Medium - 11.0</string>
 		<key>xcode.syntax.string</key>
 		<string>SFMono-Medium - 11.0</string>

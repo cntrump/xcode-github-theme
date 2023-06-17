@@ -21,7 +21,7 @@ Font: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 ## Install
 
 - Exit Xcode
-- Run `./install.sh` or `./install.sh CascadiaCode`
+- Run `./install.sh`
 - Open Xcode and select `Github (Dark)` or `Github (Light)` theme
 
 Enjoy it.
