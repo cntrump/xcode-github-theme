@@ -1,5 +1,7 @@
 #!/usr/bin/env bash
 
-set -e
+set -eux
 
-cp -f *.xccolortheme ~/Library/Developer/Xcode/UserData/FontAndColorThemes
+themeDir=~/Library/Developer/Xcode/UserData/FontAndColorThemes
+mkdir -p ${themeDir}
+cp -f *.xccolortheme ${themeDir}
