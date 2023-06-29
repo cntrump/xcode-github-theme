@@ -25,3 +25,5 @@ Font: [Cascadia Code](https://github.com/microsoft/cascadia-code)
 - Open Xcode and select `Github (Dark)` or `Github (Light)` theme
 
 Enjoy it.
+
+Suggested mono fonts: [Intel One Mono](https://github.com/intel/intel-one-mono), [Cascadia Code](https://github.com/microsoft/cascadia-code)
